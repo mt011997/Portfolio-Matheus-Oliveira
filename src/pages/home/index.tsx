@@ -58,8 +58,8 @@ export const Home = (): JSX.Element => {
               projects
             </Text>
             <Text type="body1" color="grey2">
-              Discover here in this environment, created especially for you, all
-              my projects and technologies
+            <b>Aboute-me</b>: I've been familiar with computers/technology since I was a child, I've always been interested in the area, and I'm always willing to learn more about this world of technology.
+            My goal is to be able to use my knowledge to help people and solve problems related to technology.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
